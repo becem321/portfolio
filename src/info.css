@@ -1,0 +1,47 @@
+
+#info {
+    height: 100vh;
+    background-color: #EAEAEA;
+}
+.header {
+}
+.bg-image {
+    height: 70%;
+    margin: auto 0;
+    background-image: linear-gradient( rgba(0,0,0, 0.3), rgba(0,0,0, 0.3)), url(./images/info4.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.description {
+    text-align: center;
+    color: #333333;
+
+}
+h1 {
+    font-family: -apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif;
+    margin: 0;
+   
+        font-family: -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
+        font-size: 40px;
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 700;
+        letter-spacing: -1.5px;
+        line-height: normal;
+        text-decoration: none solid rgb(64, 64, 64);
+        word-spacing: 0px;
+    
+}
+
+h2 {
+    position: absolute;
+    top: 145%;
+    left: 45%;
+    color: white;
+}
+
+.description.test {
+    color: red;
+    font-size: 3em;
+    background: blue;
+}
